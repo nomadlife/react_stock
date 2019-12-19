@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Header() {
     return (
         <header style={headerStyle}>
-            <h1>배당률</h1>
+            <h1>리츠 배당률</h1>
             <Link 
             style={linkStyle} to="/">Home</Link> | <Link 
             style={linkStyle} to="/about">About</Link>
