@@ -70,7 +70,7 @@ export class App extends Component {
                   <TableBody>
                     {rows.map(row => (
                       <TableRow key={row.id}>
-                        <TableCell align="left">{row.title}\n{'\n'}
+                        <TableCell align="left">{row.title}
                         {row.code}</TableCell>
                         <TableCell align="right">{row.date}</TableCell>
                         <TableCell align="right">{row.price}</TableCell>
