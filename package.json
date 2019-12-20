@@ -2,7 +2,7 @@
   "name": "react-stock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nomadlife.github.io/react_stock",
+  "homepage": "http://stockweb.ml",
   "dependencies": {
     "@material-ui/core": "^4.8.0",
     "@testing-library/jest-dom": "^4.2.4",
